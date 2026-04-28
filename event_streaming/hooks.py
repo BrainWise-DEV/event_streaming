@@ -2,9 +2,9 @@ from . import __version__ as app_version
 
 app_name = "event_streaming"
 app_title = "Event Streaming"
-app_publisher = "Frappe Technologies"
+app_publisher = "Brainwise for Software"
 app_description = "Event Streaming for frappe"
-app_email = "hello@frappe.io"
+app_email = "support@brainwise.me"
 app_license = "MIT"
 
 # Includes in <head>
